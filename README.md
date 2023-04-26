@@ -37,16 +37,16 @@ The virtual machine is created with a windows 10 sytem using the azure portal.  
 <p>
 <img src= "https://i.imgur.com/KUQLmaS.png" height="80%" width="80%" alt="ISS"/>
 </p>
-<p>
+
 Here we are configuring IIS in the current windows system to prepare download of ticket system. Once IIS has been configured, we would then prepare to download requirements bu running the necessary programs such as PHP manager and MySQL. PHP is a open-sourse server or extension of IIS that is used for application operations. 
 
 
 
-
+  
+  
 <img src= "https://i.imgur.com/q7SjLzg.png" height="40%" width="40%" alt="assign properties"/>
 <img src= "https://i.imgur.com/FXH8dA1.png" height="40%" width="40%" alt="assign properties"/>
-</p>
-<p>
+
 After successfully installing the ticket system, we would the assign permissions in order to create tickets and prepare to assign users and admins. 
 </p>
 <br />
