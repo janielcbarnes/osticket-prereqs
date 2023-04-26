@@ -20,9 +20,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Azure Virtual Machine
 - ISS
-- Item 3
-- Item 4
-- Item 5
+- PHP manager
+- Rewrite
+- HeidiSQl
 
 <h2>Installation Steps</h2>
 
